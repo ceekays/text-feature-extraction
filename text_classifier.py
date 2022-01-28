@@ -1,3 +1,4 @@
+import re
 from nltk.corpus import cmudict
 from nltk import pos_tag, sent_tokenize, word_tokenize
 from nltk.stem import WordNetLemmatizer
